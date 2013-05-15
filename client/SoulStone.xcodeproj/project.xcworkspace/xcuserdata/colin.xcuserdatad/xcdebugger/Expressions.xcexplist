@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Enemy::sendNextWave():Enemy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "w[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Troop::swap(Pet*, Pet*):Troop.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Troop::tryPosition(int, cocos2d::CCString*):Troop.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Troop::rebuildLinkAt(int, bool):Troop.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+            <PersistentString
+               value = "links-&gt;objectAtIndex(v)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Troop::recycle(Pet*):Troop.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Troop::kickOut(Pet*):Troop.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Troop::removePet(Pet*):Troop.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Troop::tryPosition(int, Pet*):Troop.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Troop::check():Troop.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pets-&gt;objectAtIndex(14)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Troop::addPetAt(Pet*, int):Troop.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

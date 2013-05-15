@@ -18,7 +18,6 @@ USING_NS_CC;
 
 class Enemy : public CCLayer {
     
-    
 public:
     Enemy(int);
     ~Enemy();
